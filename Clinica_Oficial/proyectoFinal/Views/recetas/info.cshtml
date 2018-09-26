@@ -1,0 +1,44 @@
+﻿@model IEnumerable<proyectoFinal.Models.consulta>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="letra">Vista Preliminar De Consulta</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            <label>Codigo de Consulta </label>
+        </th>
+        <th>
+            <label>Fecha de consulta</label>
+        </th>
+        <th>
+            <label>Diagnostico </label>
+        </th>
+        <th>
+            <label>Observaciones </label>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.codconsulta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cita.fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.diagnostico)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.observaciones)
+        </td>
+    </tr>
+}
+
+</table>

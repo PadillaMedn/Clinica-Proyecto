@@ -1,0 +1,82 @@
+﻿@model proyectoFinal.Models.veterinario
+
+@{
+    ViewBag.Title = "Delete";
+    String msj = ViewBag.errorMsj;
+}
+<div class="container">
+        <div class="row letra">
+            <div class="col-lg-10 col-lg-offset-1">
+                <br />
+                <br />
+                <br />
+                <br />
+                <h3 class="letra">¿Esta seguro de que desea eliminar este registro?</h3>
+                <div>
+                    <hr />
+                    <dl class="dl-horizontal letra">
+                        <dt>
+                            Nombre :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.nombre)
+                        </dd>
+
+                        <dt>
+                            Apellido :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.apellido)
+                        </dd>
+
+                        <dt>
+                            Dui :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.dui)
+                        </dd>
+
+                        <dt>
+                            Telefono :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.telefono)
+                        </dd>
+
+                        <dt>
+                            Sexo :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.sexo)
+                        </dd>
+
+                        <dt>
+                            Direccion :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.direccion)
+                        </dd>
+
+                    </dl>
+
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-actions no-color">
+                            <input type="submit" value="Eliminar" class="btn btn-danger" />
+                            @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+                        </div>
+                        <h1 class="text-danger">@msj</h1>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+

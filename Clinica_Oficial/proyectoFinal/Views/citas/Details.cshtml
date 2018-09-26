@@ -1,0 +1,75 @@
+﻿@model proyectoFinal.Models.cita
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <div>
+                <h3 class="letra">Detalles</h3>
+                <hr />
+                <dl class="dl-horizontal letra">
+                    <dt>
+                        Estado de Cita :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.estado.estado1)
+                    </dd>
+
+                    <dt>
+                        Mascota :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.mascota.nombre)
+                    </dd>
+
+                    <dt>
+                        Usuario :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.usuario.usuario1)
+                    </dd>
+
+                    <dt>
+                        Veterinario :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.veterinario.nombre)
+                    </dd>
+
+                    <dt>
+                        Fecha :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.fecha)
+                    </dd>
+
+                    <dt>
+                        Hora :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.hora)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.codcita }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+            </p>
+
+        </div>
+    </div>
+</div>
+ 

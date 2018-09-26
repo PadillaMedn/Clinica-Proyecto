@@ -1,0 +1,74 @@
+﻿@model proyectoFinal.Models.mascota
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <h2 class="letra">Detalles de Registros de Mascotas</h2>
+
+            <div>
+                <hr />
+                <dl class="dl-horizontal letra">
+                    <dt>
+                        <label>Nombre </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.propietario_Mascota.nombre)
+                    </dd>
+
+                    <dt>
+                        <label>Especie </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.tipo_mascota.especie)
+                    </dd>
+
+                    <dt>
+                        <label>Nombre </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nombre)
+                    </dd>
+
+                    <dt>
+                        <label>Peso </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.peso)
+                    </dd>
+
+                    <dt>
+                        <label>Sexo </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.sexo)
+                    </dd>
+
+                    <dt>
+                        <label>Fecha de nacimiento </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.fechanacimiento)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.codmascota }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+            </p>
+        </div>
+    </div>
+</div>

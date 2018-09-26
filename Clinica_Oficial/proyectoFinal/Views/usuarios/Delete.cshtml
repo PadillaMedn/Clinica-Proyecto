@@ -1,0 +1,59 @@
+﻿@model proyectoFinal.Models.usuario
+
+@{
+    ViewBag.Title = "Delete";
+    String msj = ViewBag.errorMsj;
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <h3>¿Esta seguro de que desea eliminar este registro?</h3>
+            <div>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        Rol Asignado :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.rol.rol1)
+                    </dd>
+
+                    <dt>
+                        Usuario :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.usuario1)
+                    </dd>
+
+                    <dt>
+                        Contraseña :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.pass)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Eliminar" class="btn btn-danger" />
+                        @Html.ActionLink("Regresar a la lsta", "Index", null, new { @class = "btn btn-primary" })
+                    </div>
+                    <h1 class="text-danger">@msj</h1>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+</div>

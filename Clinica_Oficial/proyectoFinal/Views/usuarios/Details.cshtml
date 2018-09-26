@@ -1,0 +1,51 @@
+﻿@model proyectoFinal.Models.usuario
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <div>
+                <h3>Detalles De Usuarios</h3>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        Rol Asignado :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.rol.rol1)
+                    </dd>
+
+                    <dt>
+                        Usuario :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.usuario1)
+                    </dd>
+
+                    <dt>
+                        Contraseña :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.pass)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.id }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+            </p>
+        </div>
+    </div>
+</div>
+    </div>
+</div>

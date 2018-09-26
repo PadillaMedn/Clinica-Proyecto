@@ -1,0 +1,81 @@
+﻿@model proyectoFinal.Models.cita
+
+@{
+    ViewBag.Title = "Delete";
+    String msj = ViewBag.errorMsj;
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <h3 class="letra">¿Esta seguro de que desea eliminar el registro?</h3>
+            <div>
+                <hr />
+                <dl class="dl-horizontal letra">
+                    <dt>
+                        Estado de Cita :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.estado.estado1)
+                    </dd>
+
+                    <dt>
+                        Mascota :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.mascota.nombre)
+                    </dd>
+
+                    <dt>
+                        Usuario :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.usuario.usuario1)
+                    </dd>
+
+                    <dt>
+                        Veterinario :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.veterinario.nombre)
+                    </dd>
+
+                    <dt>
+                        Fecha :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.fecha)
+                    </dd>
+
+                    <dt>
+                        Hora :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.hora)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Eliminar" class="btn btn-danger" />
+                        @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+                    </div>
+                    <h1 class="text-danger">@msj</h1>
+                }
+            </div>
+        </div>
+    </div>
+</div>

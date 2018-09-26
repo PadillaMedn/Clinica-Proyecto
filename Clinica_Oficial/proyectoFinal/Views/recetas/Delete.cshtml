@@ -1,0 +1,55 @@
+﻿@model proyectoFinal.Models.receta
+
+@{
+    ViewBag.Title = "Delete";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <h3 class="letra">¿Esta seguro de que desea eliminar este registro?</h3>
+            <div>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        Diagnostico :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.consulta.diagnostico)
+                    </dd>
+
+                    <dt>
+                        Descripcion :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.descripcion)
+                    </dd>
+
+                    <dt>
+                        Dosis :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.dosis)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Eliminar" class="btn btn-danger" />
+                        @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+                    </div>
+                }
+            </div>
+            </div>
+            </div>
+            </div>

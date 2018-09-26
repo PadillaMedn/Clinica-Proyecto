@@ -1,0 +1,76 @@
+﻿@model IEnumerable<proyectoFinal.Models.mascota>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <center>
+                <h2>Control de mascotas</h2>
+            </center>
+            <p>
+                @Html.ActionLink("Crear Nuevo", "Create", null, new { @class = "btn btn-primary" })
+            </p>
+            <table class="table table-responsive">
+                <tr>
+                    <th>
+                        <label>Propietario </label>
+                    </th>
+                    <th>
+                        <label>Especie </label>
+                    </th>
+                    <th>
+                        <label>Nombre </label>
+                    </th>
+                    <th>
+                        <label>Peso </label>
+                    </th>
+                    <th>
+                        <label>Sexo </label>
+                    </th>
+                    <th>
+                        <label>Fecha de nacimiento </label>
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.propietario_Mascota.nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.tipo_mascota.especie)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.peso)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.sexo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.fechanacimiento)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", new { id = item.codmascota }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Detalles", "Details", new { id = item.codmascota }, new { @class = "btn btn-success" })
+                            @Html.ActionLink("Eliminar", "Delete", new { id = item.codmascota }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+

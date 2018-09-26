@@ -1,0 +1,59 @@
+﻿
+@model IEnumerable<proyectoFinal.Models.cita>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3 class="letra">Vista Preliminar de Citas</h3>
+
+
+<table class="table letra table-responsive">
+    <tr>
+        <th>
+            <label>Codigo de Cita </label>
+        </th>
+        <th>
+            <label>Estado </label>
+        </th>
+        <th>
+            <label>Mascota </label>
+        </th>
+        <th>
+            <label>Veterinario </label>
+        </th>
+        <th>
+            <label>Fecha </label>
+        </th>
+        <th>
+            <label>Hora </label>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.codcita)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.estado.estado1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.mascota.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.veterinario.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hora)
+        </td>
+
+    </tr>
+    }
+
+</table>

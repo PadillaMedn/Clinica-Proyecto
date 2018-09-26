@@ -1,0 +1,33 @@
+﻿@model IEnumerable<proyectoFinal.Models.estado>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Estados</h2>
+
+<p>
+    @Html.ActionLink("Crear nuevo", "Create")
+</p>
+<table class="table table-responsive">
+    <tr>
+        <th>
+            <label>Estados </label>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.estado1)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.codestado }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.codestado }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.codestado })
+        </td>
+    </tr>
+}
+
+</table>

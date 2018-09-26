@@ -1,0 +1,76 @@
+﻿@model IEnumerable<proyectoFinal.Models.propietario_Mascota>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <center><h2>Gestion de Propietarios de Mascotas</h2></center>
+
+            <p>
+                @Html.ActionLink("Crear nuevo", "Create", null, new { @class = "btn btn-primary" })
+            </p>
+            <table class="table table-responsive">
+                <tr>
+                    <th>
+                        <label>Nombre </label>
+                    </th>
+                    <th>
+                        <label>Apellido </label>
+                    </th>
+                    <th>
+                        <label>DUI </label>
+                    </th>
+                    <th>
+                        <label>Sexo </label>
+                    </th>
+                    <th>
+                        <label>Telefono </label>
+                    </th>
+                    <th>
+                        <label>Direccion </label>
+                    </th>
+                    <th class="text-center">
+                        Acciones
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.apellido)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.dui)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.sexo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.telefono)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.direccion)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", new { id = item.codpropietario }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Detalles", "Details", new { id = item.codpropietario }, new { @class = "btn btn-success" })
+                            @Html.ActionLink("Eliminar", "Delete", new { id = item.codpropietario }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>

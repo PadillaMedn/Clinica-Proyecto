@@ -1,0 +1,57 @@
+﻿@model IEnumerable<proyectoFinal.Models.receta>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <center> <h1 class="letra">Gestión de Recetas</h1></center>
+
+            <p>
+                @Html.ActionLink("Crear nuevo", "Create", null, new { @class = "btn btn-primary" })
+            </p>
+            <table class="table letra table-responsive">
+                <tr>
+                    <th>
+                        Diagnostico
+                    </th>
+                    <th>
+                        Descripcion
+                    </th>
+                    <th>
+                        Dosis
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.consulta.diagnostico)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.descripcion)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.dosis)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", new { id = item.codreceta }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Detalles", "Details", new { id = item.codreceta }, new { @class = "btn btn-success" })
+                            @Html.ActionLink("Eliminar", "Delete", new { id = item.codreceta }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+       
+  

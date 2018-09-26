@@ -1,0 +1,45 @@
+﻿@model IEnumerable<proyectoFinal.Models.rol>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+<div class="row letra">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+        <br />
+        <br />
+        <br />
+        <br />
+        <center><h2>Gestion de Roles de Usarios</h2></center>
+        <p>
+            @Html.ActionLink("Crear Nuevo", "Create", null, new { @class = "btn btn-primary" })
+        </p>
+        <table class="table table-responsive">
+            <tr>
+                <th>
+                    Rol Asignado
+                </th>
+                <th class="text-center">
+                    
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.rol1)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "Edit", new { id = item.id }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Detalles", "Details", new { id = item.id }, new { @class = "btn btn-success" })
+                        @Html.ActionLink("Eliminar", "Delete", new { id = item.id }, new { @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+    </div>
+</div>

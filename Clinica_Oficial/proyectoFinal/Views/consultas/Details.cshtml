@@ -1,0 +1,51 @@
+﻿@model proyectoFinal.Models.consulta
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <h3 class="letra">Detalles</h3>
+
+            <div>
+                <hr />
+                <dl class="dl-horizontal letra">
+                    <dt>
+                        <label>Fecha : </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.cita.fecha)
+                    </dd>
+
+                    <dt>
+                        <label>Diagnostico :</label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.diagnostico)
+                    </dd>
+
+                    <dt>
+                        <label>Observaciones : </label>
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.observaciones)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.codconsulta }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+            </p>
+        </div>
+    </div>
+</div>
+                <

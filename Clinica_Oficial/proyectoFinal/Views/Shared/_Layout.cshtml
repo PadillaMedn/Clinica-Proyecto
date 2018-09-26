@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        
+        Clinica Veterinaria
+    </title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/bundles/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</head>
+<body>
+    <nav class="navbar navbar-default"  role="navigation"  >
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" >
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"> @Html.ActionLink("MENU", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Control de Citas", "Index", "citas")</li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Control de Consultas<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">@Html.ActionLink("Consultas", "Index", "consultas")</a></li>
+                            <li><a href="#">@Html.ActionLink("Recetas", "Index", "recetas")</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Control de Mascotas<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">@Html.ActionLink("Mascota", "Index", "mascotas")</a></li>
+                            <li><a href="#">@Html.ActionLink("Tipo de Mascota", "Index", "Tipo_mascota")</a></li>
+                            <li><a href="">@Html.ActionLink("Dueño Mascota", "Index", "propietario_mascota")</a></li>
+                        </ul>
+                    </li>
+                    <li>@Html.ActionLink("Veterinarios", "Index", "veterinarios")</li>
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle navbar-right " data-toggle="dropdown">Usuarios <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">@Html.ActionLink("Roles", "Index", "rols")</a></li>
+                            <li><a href="#">@Html.ActionLink("Usuarios", "Index", "usuarios")</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-4  col-lg-offset-10">
+                        <img src="~/imagenes/renal-perros-y-gatos.jpg" width="60%" height="60%" />
+                        <p class="letra">&copy; @DateTime.Now.Year - Clinica Veterinaria </p>
+                    </div>
+                </div>
+            </div>
+            
+            
+
+        </footer>
+    </div>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

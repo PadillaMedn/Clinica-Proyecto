@@ -1,0 +1,75 @@
+﻿@model proyectoFinal.Models.veterinario
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container">
+    <div class="row letra">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="letra">
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <h4>Detalles</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        Nombre :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nombre)
+                    </dd>
+
+                    <dt>
+                        Apellido :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.apellido)
+                    </dd>
+
+                    <dt>
+                        Dui :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.dui)
+                    </dd>
+
+                    <dt>
+                        Telefono :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.telefono)
+                    </dd>
+
+                    <dt>
+                        Sexo :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.sexo)
+                    </dd>
+
+                    <dt>
+                        Direccion :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.direccion)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.codVeterinario }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+            </p>
+            </div>
+            </div>
+            </div>

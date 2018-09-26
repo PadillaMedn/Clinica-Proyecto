@@ -1,0 +1,47 @@
+﻿@model IEnumerable<proyectoFinal.Models.tipo_mascota>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <center>
+                <h2>Tipos de Mascota</h2>
+            </center>
+
+            <p>
+                @Html.ActionLink("Crear nuevo", "Create", null, new { @class = "btn btn-primary" })
+            </p>
+            <table class="table table-responsive">
+                <tr>
+                    <th>
+                        <label>Especie </label>
+                    </th>
+                    <th class="text-center">
+                        Acciones
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.especie)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", new { id = item.codtipo }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Detalles", "Details", new { id = item.codtipo }, new { @class = "btn btn-success" })
+                            @Html.ActionLink("Eliminar", "Delete", new { id = item.codtipo }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>

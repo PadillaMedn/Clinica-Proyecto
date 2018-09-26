@@ -1,0 +1,832 @@
+I:\clinica\proyectoFinal\proyectoFinal\bin\ApplicationInsights.config
+I:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll.config
+I:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.pdb
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe.config
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.rsp
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe.config
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.rsp
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.AppContext.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Console.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe.config
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.rsp
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+I:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+I:\clinica\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Razor.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\WebGrease.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Razor.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.pdb
+I:\clinica\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+I:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+I:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+I:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+I:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.dll
+I:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+F:\clinica\proyectoFinal\proyectoFinal\bin\ApplicationInsights.config
+F:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll.config
+F:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.pdb
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe.config
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.rsp
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe.config
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.rsp
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.AppContext.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Console.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe.config
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.rsp
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+F:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+F:\clinica\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Razor.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\WebGrease.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Razor.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.pdb
+F:\clinica\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+F:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+F:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+F:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.dll
+F:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+H:\clinica\proyectoFinal\proyectoFinal\bin\ApplicationInsights.config
+H:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll.config
+H:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\proyectoFinal.pdb
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe.config
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csc.rsp
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe.config
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\csi.rsp
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.AppContext.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Console.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe.config
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\vbc.rsp
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+H:\clinica\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+H:\clinica\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Razor.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\WebGrease.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.Razor.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.pdb
+H:\clinica\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+H:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+H:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+H:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+H:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.dll
+H:\clinica\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll.config
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\proyectoFinal.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\proyectoFinal.pdb
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\EntityFramework.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\WebGrease.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\EntityFramework.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.dll
+C:\Users\HP\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\proyectoFinal.dll.config
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\proyectoFinal.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\proyectoFinal.pdb
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\EntityFramework.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\WebGrease.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\EntityFramework.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\obj\Debug\proyectoFinal.dll
+C:\Users\HP\Desktop\proyectoClinica\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\proyectoFinal.dll.config
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\proyectoFinal.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\proyectoFinal.pdb
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\EntityFramework.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\WebGrease.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\EntityFramework.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\obj\Debug\proyectoFinal.dll
+C:\Users\HP\Desktop\proyectoClinica Ajax2\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\proyectoFinal.dll.config
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\proyectoFinal.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\proyectoFinal.pdb
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Helpers.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Mvc.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Razor.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\WebGrease.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Helpers.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Mvc.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Razor.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.dll
+C:\Users\HP\Desktop\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.pdb
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\ApplicationInsights.config
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\proyectoFinal.dll.config
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\proyectoFinal.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\proyectoFinal.pdb
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csc.exe
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csc.exe.config
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csc.rsp
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csi.exe
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csi.exe.config
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\csi.rsp
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.AppContext.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Collections.Immutable.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Console.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Diagnostics.Process.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.Compression.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.FileSystem.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.IO.Pipes.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Reflection.Metadata.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.AccessControl.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Claims.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Threading.Thread.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.ValueTuple.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.XPath.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\vbc.exe
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\vbc.exe.config
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\vbc.rsp
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\VBCSCompiler.exe
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\roslyn\VBCSCompiler.exe.config
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Antlr3.Runtime.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.SqlServer.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.DependencyCollector.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.Web.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.WindowsServer.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.ApplicationInsights.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.Web.Infrastructure.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Newtonsoft.Json.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Helpers.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Mvc.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Optimization.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Razor.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Deployment.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Razor.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\WebGrease.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\EntityFramework.SqlServer.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Helpers.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Mvc.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Optimization.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.Razor.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Deployment.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Web.WebPages.Razor.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Newtonsoft.Json.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Antlr3.Runtime.pdb
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.DependencyCollector.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.WindowsServer.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.AI.Web.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Helpers.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Mvc.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Optimization.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.Razor.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.WebPages.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.dll
+F:\Protecto_Clinica\Clinica_Oficial\proyectoFinal\obj\Debug\proyectoFinal.pdb

@@ -1,0 +1,42 @@
+﻿@model proyectoFinal.Models.tipo_mascota
+
+@{
+    ViewBag.Title = "Delete";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <h3>¿Esta seguro de que desea eliminar este registro?</h3>
+            <div>
+                <hr />
+
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+                    <dl class="dl-horizontal">
+                        <dt>
+                            Especie :
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.especie)
+                        </dd>
+
+                    </dl>
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Eliminar" class="btn btn-danger" />
+                        @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+

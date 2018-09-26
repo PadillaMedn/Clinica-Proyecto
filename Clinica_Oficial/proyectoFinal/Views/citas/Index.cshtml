@@ -1,0 +1,99 @@
+﻿@model IEnumerable<proyectoFinal.Models.cita>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script>
+    $(document).ready(function () {
+        $("#filtro").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("#mybody tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+    });
+</script>
+
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <center> <h1 class="letra">Gestión de citas</h1></center>
+            <h4> @Html.ActionLink("Crear nuevo", "Create", null, new { @class = "btn btn-primary" })</h4>
+            <div class="row form-horizontal">
+                <div class="col-lg-offset-6 col-lg-2">
+                    <label class="letra">Criterio de busqueda</label>
+                </div>
+                <div class="col-lg-4 form-inline">
+                    <input type="text" id="filtro" placeholder="buscar..." />
+                </div>
+            </div>
+            <div id="resultado">
+                <table class="table table-responsive">
+                    <tr>
+                        <th>
+                            Estado
+                        </th>
+                        <th>
+                            Nombre
+                        </th>
+                        <th>
+                            Usuario
+                        </th>
+                        <th>
+                            Veterinario
+                        </th>
+                        <th>
+                            Fecha
+                        </th>
+                        <th>
+                            Hora
+                        </th>
+                        <th>
+                            Acciones
+                        </th>
+                    </tr>
+                    <tbody id="mybody">
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.estado.estado1)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.mascota.nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.usuario.usuario1)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.veterinario.nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fecha)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.hora)
+                                </td>
+
+                                <td>
+                                    @Html.ActionLink("Editar", "Edit", new { id = item.codcita }, new { @class = "btn btn-primary" })
+                                    @Html.ActionLink("Detalles", "Details", new { id = item.codcita }, new { @class = "btn btn-success" })
+                                    @Html.ActionLink("Eliminar", "Delete", new { id = item.codcita }, new { @class = "btn btn-danger" })
+                                </td>
+
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+       

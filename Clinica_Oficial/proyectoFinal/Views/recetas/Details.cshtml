@@ -1,0 +1,50 @@
+﻿@model proyectoFinal.Models.receta
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <div>
+                <h4 class="letra">Detalles de la receta</h4>
+                <hr />
+                <dl class="dl-horizontal letra">
+                    <dt>
+                        Diagnostico :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.consulta.diagnostico)
+                    </dd>
+
+                    <dt>
+                        Descripcion :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.descripcion)
+                    </dd>
+
+                    <dt>
+                        Dosis :
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.dosis)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.codreceta }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Regresar a la lista", "Index", null, new { @class = "btn btn-primary" })
+            </p>
+            </div>
+            </div>
+            </div>
+            

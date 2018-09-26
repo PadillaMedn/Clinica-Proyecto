@@ -1,0 +1,58 @@
+﻿@model IEnumerable<proyectoFinal.Models.consulta>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row letra">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-offset-1">
+            <br />
+            <br />
+            <br />
+            <br />
+            <center> <h1 class="letra">Gestión de Consultas</h1></center>
+            <p>
+                @Html.ActionLink("Crear nuevo", "Create", null, new { @class = "btn btn-primary" })
+            </p>
+            <table class="table letra table-responsive">
+                <tr>
+                    <th>
+                        <label>Fecha de consulta</label>
+                    </th>
+                    <th>
+                        <label>Diagnostico </label>
+                    </th>
+                    <th>
+                        <label>Observaciones </label>
+                    </th>
+                    <th class="text-center">
+                        Acciones
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.cita.fecha)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.diagnostico)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.observaciones)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", new { id = item.codconsulta }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Detalles", "Details", new { id = item.codconsulta }, new { @class = "btn btn-success" })
+                            @Html.ActionLink("Eliminar", "Delete", new { id = item.codconsulta }, new { @class = "btn btn-danger" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+          
+   
